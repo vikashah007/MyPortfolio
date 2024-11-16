@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Job Seeker",
+    "imageSrc": "projects/job.jpeg",
+    "description": "A MERN-based platform enabling users to find jobs efficiently with robust features.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://job-seeking-webapp-byvikash.netlify.app/",
+    "source": "https://github.com/vikashah007/Job_Seeking_MERNApplication.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Delish",
+    "imageSrc": "projects/delish.jpeg",
+    "description": "Delish is a responsive food ordering platform with menu filtering, cart and checkout features,and a vast menu, designed for an enhanced experience.",
+    "skills": ["React","Css"],
+    "demo": "https://delishtaste.netlify.app/",
+    "source": "https://github.com/vikashah007/Delish_ReactWeb.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Hospital Management ",
+    "imageSrc": "projects/hospital.jpeg",
+    "description": "A system for managing patient records, appointments,and hospital operations seamlessly.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://hospital-management-system-vk.netlify.app/",
+    "source": "https://github.com/vikashah007/hospital_frontend.git"
   }
 ]

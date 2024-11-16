@@ -51,7 +51,7 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 36%;
   z-index: 1;
 
   animation-name: floating;
@@ -107,5 +107,14 @@
 
   .content {
     align-items: center;
+  }
+  .description{
+    font-size: 25px;
+  }
+  
+  .title{
+    margin-top: 10px;
+    font-size: 56px;
+    font-weight: 800;
   }
 }
